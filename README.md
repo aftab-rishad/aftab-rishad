@@ -8,7 +8,7 @@
 <br clear="both">
 
 <div align="center">
-  <a href="www.linkedin.com/in/aftab-rishad" target="_blank">
+  <a href="https://www.linkedin.com/in/aftab-rishad/" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=MR3dZdlA53te&format=png&color=000000" width="55" alt="linkedin logo"  />
   </a>
   <a href="https://www.facebook.com/yasinaftabrishad" target="_blank">
