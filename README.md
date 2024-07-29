@@ -12,13 +12,13 @@
     <img src="https://img.icons8.com/?size=100&id=MR3dZdlA53te&format=png&color=000000" width="55" alt="linkedin logo"  />
   </a>
   <a href="https://www.facebook.com/yasinaftabrishad" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=uLWV5A9vXIPu&format=png&color=000000" width="55" alt="facebook logo"  />
+    <img src="https://img.icons8.com/?size=100&id=jZ0kw76QEzJU&format=png&color=000000" width="55" alt="facebook logo"  />
   </a>
   <a href="https://www.instagram.com/aftab_rishad/" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=nj0Uj45LGUYh&format=png&color=000000" width="55" alt="instagram logo"  />
   </a>
   <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=aftabrishad@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=eFPBXQop6V2m&format=png&color=000000" width="55" alt="gmail logo"  />
+    <img src="https://img.icons8.com/?size=100&id=xLIkjgcmFOsC&format=png&color=000000" width="55" alt="gmail logo"  />
   </a>
 </div>
 
