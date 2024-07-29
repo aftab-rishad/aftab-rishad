@@ -18,7 +18,7 @@
     <img src="https://img.icons8.com/?size=100&id=nj0Uj45LGUYh&format=png&color=000000" width="55" alt="instagram logo"  />
   </a>
   <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=aftabrishad@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=OumT4lIcOllS&format=png&color=000000" width="55" alt="gmail logo"  />
+    <img src="https://img.icons8.com/?size=100&id=eFPBXQop6V2m&format=png&color=000000" width="55" alt="gmail logo"  />
   </a>
 </div>
 
