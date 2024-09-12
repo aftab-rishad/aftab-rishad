@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://media.licdn.com/dms/image/D5616AQEs37UVuFNRBA/profile-displaybackgroundimage-shrink_350_1400/0/1714823625021?e=1723680000&v=beta&t=PxLS3_seR53CB7RMfWfNUgxuBVtC2bgKoNGIqiy1hM0" />
+  <img width="100%" src="./Github Readme BG.png" />
 </div>
 
 ###
