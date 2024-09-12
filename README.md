@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="./github-readme-bg .svg" />
+  <img width="100%" src="./Github Readme BG.png" />
 </div>
 
 ###
