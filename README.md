@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="./Github Readme BG.png" />
+  <img width="100%" src="./LinkedIn Background Banner - Yasin Aftab Rishad.png" />
 </div>
 
 ###
@@ -9,16 +9,16 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/aftab-rishad/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=MR3dZdlA53te&format=png&color=000000" width="55" alt="linkedin logo"  />
+    <img src="./linkedin.png" width="60" alt="linkedin logo"  />
   </a>
   <a href="https://www.facebook.com/yasinaftabrishad" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=jZ0kw76QEzJU&format=png&color=000000" width="55" alt="facebook logo"  />
+    <img src="./facebook.png" width="60" alt="facebook logo"  />
   </a>
   <a href="https://www.instagram.com/aftab_rishad/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=nj0Uj45LGUYh&format=png&color=000000" width="55" alt="instagram logo"  />
+    <img src="./instagram.png" width="60" alt="instagram logo"  />
   </a>
   <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=aftabrishad@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=xLIkjgcmFOsC&format=png&color=000000" width="55" alt="gmail logo"  />
+    <img src="./gmail.png" width="60" alt="gmail logo"  />
   </a>
 </div>
 
@@ -63,13 +63,13 @@
       </ol>
       <h2><img align="center" src="https://img.icons8.com/?size=100&id=3uQnZOl1K8xx&format=png&color=000000" width="35"/> Skills</h2>
       <ul>
-        <li><img align="center" src="https://img.icons8.com/?size=100&id=zRvbzAjx4VWY&format=png&color=000000" width="25"/> HTML</li>
-        <li><img align="center" src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000" width="25"/> CSS</li>
-        <li><img align="center" src="https://img.icons8.com/?size=100&id=Nkym0Ujb8VGI&format=png&color=000000" width="25"/> JavaScript</li>
-        <li><img align="center" src="https://img.icons8.com/?size=100&id=t4YbEbA834uH&format=png&color=000000" width="25"/> React JS</li>
-        <li><img align="center" src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" width="25"/> Tailwind CSS</li>
-        <li><img align="center" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="25"/> Git</li>
-        <li><img align="center" src="https://img.icons8.com/?size=100&id=LoL4bFzqmAa0&format=png&color=000000" width="25"/> GitHub</li>
+        <li><img align="center" src="./html.png" width="25"/> HTML</li>
+        <li><img align="center" src="./css.png" width="25"/> CSS</li>
+        <li><img align="center" src="./javascript.png" width="25"/> JavaScript</li>
+        <li><img align="center" src="./react.png" width="25"/> React JS</li>
+        <li><img align="center" src="./tailwind.png" width="25"/> Tailwind CSS</li>
+        <li><img align="center" src="./git.png" width="25"/> Git</li>
+        <li><img align="center" src="./github.png" width="25"/> GitHub</li>
       </ul>
       <h2><img align="center" src="https://img.icons8.com/?size=100&id=IMmpOBqJrx0B&format=png&color=000000" width="35"/> Why I am a skilled front-end web developer</h2>
       <ol>
