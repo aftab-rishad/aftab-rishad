@@ -27,12 +27,6 @@
 
 ###
 
-<div align="left">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aftab-rishad&radius=16&theme=react&area=true&order=5&hide_title=false&hide_border=true" alt="activity-graph graph"  />
-</div>
-
-###
-
 <h1 align="center">Welcome, Enjoy! <img align="center" src="https://img.icons8.com/?size=100&id=1H52efUsDX7A&format=png&color=000000" width="50"/></h1>
 
 ###
