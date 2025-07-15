@@ -60,8 +60,9 @@
         <li><img align="center" src="./html.png" width="25"/> HTML</li>
         <li><img align="center" src="./css.png" width="25"/> CSS</li>
         <li><img align="center" src="./javascript.png" width="25"/> JavaScript</li>
-        <li><img align="center" src="./react.png" width="25"/> React JS</li>
         <li><img align="center" src="./tailwind.png" width="25"/> Tailwind CSS</li>
+        <li><img align="center" src="./react.png" width="25"/> React JS</li>
+        <li><img align="center" src="https://skillicons.dev/icons?i=nextjs" height="25" />Next JS</li>
         <li><img align="center" src="./git.png" width="25"/> Git</li>
         <li><img align="center" src="./github.png" width="25"/> GitHub</li>
       </ul>
